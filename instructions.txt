@@ -1,0 +1,3 @@
+using a rabbit mq to perform a asynchronous communication between services 
+Learn from fav YT Channel      > 
+# Sheriyans Coding School
